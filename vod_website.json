@@ -1,242 +1,1060 @@
 [
-    {
+  {
+    "key": "1739331877022",
+    "vodWebsite": {
       "key": "1739331877022",
-      "vodWebsite": {
-        "key": "1739331877022",
-        "host": "https://api.wwzy.tv",
-        "name": "旺旺资源",
-        "supportedSearch": true,
-        "coverHost": "",
-        "listPath": "/api.php/provide/vod/?ac=detail&wd=",
-        "remark": "https://wwzy.tv/,https://ww.tyyszy5.com/,https://api.wwzy.tv"
-      },
-      "vodTypes": {
-        "key": "1739331877022",
-        "vod_types": [
-          {
-            "type_id": 1,
-            "type_name": "短剧",
-            "isSkit": true,
-            "isExpanded": true
-          }
-        ]
-      }
+      "host": "https://api.wwzy.tv",
+      "name": "旺旺资源",
+      "supportedSearch": true,
+      "coverHost": "",
+      "listPath": "/api.php/provide/vod/?ac=detail&wd=",
+      "remark": "https://wwzy.tv/,https://ww.tyyszy5.com/,https://api.wwzy.tv"
     },
-    {
-      "key": "1739502868664",
-      "vodWebsite": {
-        "key": "1739502868664",
-        "host": "https://api.apibdzy.com",
-        "name": "百度资源",
-        "supportedSearch": false,
-        "coverHost": "",
-        "listPath": "/api.php/provide/vod/?ac=detail",
-        "remark": "https://bdzy.com"
-      },
-      "vodTypes": {
-        "key": "1739502868664",
-        "vod_types": [
-          {
-            "type_id": 1,
-            "type_name": "电影",
-            "isSkit": null,
-            "isExpanded": null,
-            "vod_types": [
-              {
-                "type_id": 6,
-                "type_name": "动作片",
-                "isSkit": null,
-                "isExpanded": null
-              },
-              {
-                "type_id": 7,
-                "type_name": "喜剧片",
-                "isSkit": null,
-                "isExpanded": null
-              },
-              {
-                "type_id": 8,
-                "type_name": "爱情片",
-                "isSkit": null,
-                "isExpanded": null
-              },
-              {
-                "type_id": 9,
-                "type_name": "科幻片",
-                "isSkit": null,
-                "isExpanded": null
-              },
-              {
-                "type_id": 10,
-                "type_name": "恐怖片",
-                "isSkit": null,
-                "isExpanded": null
-              },
-              {
-                "type_id": 11,
-                "type_name": "剧情片",
-                "isSkit": null,
-                "isExpanded": null
-              },
-              {
-                "type_id": 12,
-                "type_name": "战争片",
-                "isSkit": null,
-                "isExpanded": null
-              },
-              {
-                "type_id": 17,
-                "type_name": "记录片",
-                "isSkit": null,
-                "isExpanded": null
-              },
-              {
-                "type_id": 18,
-                "type_name": "犯罪片",
-                "isSkit": null,
-                "isExpanded": null
-              },
-              {
-                "type_id": 20,
-                "type_name": "动画片",
-                "isSkit": null,
-                "isExpanded": null
-              },
-              {
-                "type_id": 32,
-                "type_name": "悬疑片",
-                "isSkit": null,
-                "isExpanded": null
-              },
-              {
-                "type_id": 5,
-                "type_name": "伦理片",
-                "isSkit": null,
-                "isExpanded": null
-              },
-              {
-                "type_id": 33,
-                "type_name": "邵氏电影",
-                "isSkit": null,
-                "isExpanded": null
-              }
-            ]
-          },
-          {
-            "type_id": 2,
-            "type_name": "电视剧",
-            "isSkit": null,
-            "isExpanded": null,
-            "vod_types": [
-              {
-                "type_id": 13,
-                "type_name": "大陆剧",
-                "isSkit": null,
-                "isExpanded": null
-              },
-              {
-                "type_id": 14,
-                "type_name": "港澳剧",
-                "isSkit": null,
-                "isExpanded": null
-              },
-              {
-                "type_id": 15,
-                "type_name": "韩剧",
-                "isSkit": null,
-                "isExpanded": null
-              },
-              {
-                "type_id": 16,
-                "type_name": "日剧",
-                "isSkit": null,
-                "isExpanded": null
-              },
-              {
-                "type_id": 21,
-                "type_name": "台湾剧",
-                "isSkit": null,
-                "isExpanded": null
-              },
-              {
-                "type_id": 22,
-                "type_name": "欧美剧",
-                "isSkit": null,
-                "isExpanded": null
-              },
-              {
-                "type_id": 24,
-                "type_name": "泰剧",
-                "isSkit": null,
-                "isExpanded": null
-              },
-              {
-                "type_id": 23,
-                "type_name": "其他剧",
-                "isSkit": null,
-                "isExpanded": null
-              }
-            ]
-          },
-          {
-            "type_id": 3,
-            "type_name": "综艺片",
-            "isSkit": null,
-            "isExpanded": null,
-            "vod_types": [
-              {
-                "type_id": 25,
-                "type_name": "大陆综艺",
-                "isSkit": null,
-                "isExpanded": null
-              },
-              {
-                "type_id": 26,
-                "type_name": "日韩综艺",
-                "isSkit": null,
-                "isExpanded": null
-              },
-              {
-                "type_id": 27,
-                "type_name": "港台综艺",
-                "isSkit": null,
-                "isExpanded": null
-              },
-              {
-                "type_id": 29,
-                "type_name": "欧美综艺",
-                "isSkit": null,
-                "isExpanded": null
-              }
-            ]
-          },
-          {
-            "type_id": 4,
-            "type_name": "动漫",
-            "isSkit": null,
-            "isExpanded": null,
-            "vod_types": [
-              {
-                "type_id": 29,
-                "type_name": "国产动漫",
-                "isSkit": null,
-                "isExpanded": null
-              },
-              {
-                "type_id": 30,
-                "type_name": "日韩动漫",
-                "isSkit": null,
-                "isExpanded": null
-              },
-              {
-                "type_id": 31,
-                "type_name": "欧美动漫",
-                "isSkit": null,
-                "isExpanded": null
-              }
-            ]
-          }
-        ]
-      }
+    "vodTypes": {
+      "key": "1739331877022",
+      "vod_types": [
+        {
+          "type_id": 1,
+          "type_name": "短剧",
+          "isSkit": true,
+          "isExpanded": true
+        }
+      ]
     }
+  },
+  {
+    "key": "1739502868664",
+    "vodWebsite": {
+      "key": "1739502868664",
+      "host": "https://api.apibdzy.com",
+      "name": "百度资源",
+      "supportedSearch": false,
+      "coverHost": "",
+      "listPath": "/api.php/provide/vod/?ac=detail",
+      "remark": "https://bdzy.com"
+    },
+    "vodTypes": {
+      "key": "1739502868664",
+      "vod_types": [
+        {
+          "type_id": 1,
+          "type_name": "电影",
+          "isSkit": null,
+          "isExpanded": null,
+          "vod_types": [
+            {
+              "type_id": 6,
+              "type_name": "动作片",
+              "isSkit": null,
+              "isExpanded": null
+            },
+            {
+              "type_id": 7,
+              "type_name": "喜剧片",
+              "isSkit": null,
+              "isExpanded": null
+            },
+            {
+              "type_id": 8,
+              "type_name": "爱情片",
+              "isSkit": null,
+              "isExpanded": null
+            },
+            {
+              "type_id": 9,
+              "type_name": "科幻片",
+              "isSkit": null,
+              "isExpanded": null
+            },
+            {
+              "type_id": 10,
+              "type_name": "恐怖片",
+              "isSkit": null,
+              "isExpanded": null
+            },
+            {
+              "type_id": 11,
+              "type_name": "剧情片",
+              "isSkit": null,
+              "isExpanded": null
+            },
+            {
+              "type_id": 12,
+              "type_name": "战争片",
+              "isSkit": null,
+              "isExpanded": null
+            },
+            {
+              "type_id": 17,
+              "type_name": "记录片",
+              "isSkit": null,
+              "isExpanded": null
+            },
+            {
+              "type_id": 18,
+              "type_name": "犯罪片",
+              "isSkit": null,
+              "isExpanded": null
+            },
+            {
+              "type_id": 20,
+              "type_name": "动画片",
+              "isSkit": null,
+              "isExpanded": null
+            },
+            {
+              "type_id": 32,
+              "type_name": "悬疑片",
+              "isSkit": null,
+              "isExpanded": null
+            },
+            {
+              "type_id": 5,
+              "type_name": "伦理片",
+              "isSkit": null,
+              "isExpanded": null
+            },
+            {
+              "type_id": 33,
+              "type_name": "邵氏电影",
+              "isSkit": null,
+              "isExpanded": null
+            }
+          ]
+        },
+        {
+          "type_id": 2,
+          "type_name": "电视剧",
+          "isSkit": null,
+          "isExpanded": null,
+          "vod_types": [
+            {
+              "type_id": 13,
+              "type_name": "大陆剧",
+              "isSkit": null,
+              "isExpanded": null
+            },
+            {
+              "type_id": 14,
+              "type_name": "港澳剧",
+              "isSkit": null,
+              "isExpanded": null
+            },
+            {
+              "type_id": 15,
+              "type_name": "韩剧",
+              "isSkit": null,
+              "isExpanded": null
+            },
+            {
+              "type_id": 16,
+              "type_name": "日剧",
+              "isSkit": null,
+              "isExpanded": null
+            },
+            {
+              "type_id": 21,
+              "type_name": "台湾剧",
+              "isSkit": null,
+              "isExpanded": null
+            },
+            {
+              "type_id": 22,
+              "type_name": "欧美剧",
+              "isSkit": null,
+              "isExpanded": null
+            },
+            {
+              "type_id": 24,
+              "type_name": "泰剧",
+              "isSkit": null,
+              "isExpanded": null
+            },
+            {
+              "type_id": 23,
+              "type_name": "其他剧",
+              "isSkit": null,
+              "isExpanded": null
+            }
+          ]
+        },
+        {
+          "type_id": 3,
+          "type_name": "综艺片",
+          "isSkit": null,
+          "isExpanded": null,
+          "vod_types": [
+            {
+              "type_id": 25,
+              "type_name": "大陆综艺",
+              "isSkit": null,
+              "isExpanded": null
+            },
+            {
+              "type_id": 26,
+              "type_name": "日韩综艺",
+              "isSkit": null,
+              "isExpanded": null
+            },
+            {
+              "type_id": 27,
+              "type_name": "港台综艺",
+              "isSkit": null,
+              "isExpanded": null
+            },
+            {
+              "type_id": 29,
+              "type_name": "欧美综艺",
+              "isSkit": null,
+              "isExpanded": null
+            }
+          ]
+        },
+        {
+          "type_id": 4,
+          "type_name": "动漫",
+          "isSkit": null,
+          "isExpanded": null,
+          "vod_types": [
+            {
+              "type_id": 29,
+              "type_name": "国产动漫",
+              "isSkit": null,
+              "isExpanded": null
+            },
+            {
+              "type_id": 30,
+              "type_name": "日韩动漫",
+              "isSkit": null,
+              "isExpanded": null
+            },
+            {
+              "type_id": 31,
+              "type_name": "欧美动漫",
+              "isSkit": null,
+              "isExpanded": null
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "key": "1739952786897",
+    "vodWebsite": {
+      "key": "1739952786897",
+      "host": "https://m3u8.apiyhzy.com",
+      "name": "樱花资源网",
+      "supportedSearch": false,
+      "coverHost": null,
+      "listPath": "/api.php/provide/vod/?ac=detail",
+      "remark": "https://yhzy.cc/"
+    },
+    "vodTypes": {
+      "key": "1739952786897",
+      "vod_types": [
+        {
+          "type_id": 1,
+          "type_name": "电影",
+          "isSkit": null,
+          "isExpanded": null,
+          "vod_types": [
+            {
+              "type_id": 6,
+              "type_name": "动作片",
+              "isSkit": null,
+              "isExpanded": null
+            },
+            {
+              "type_id": 7,
+              "type_name": "喜剧片",
+              "isSkit": null,
+              "isExpanded": null
+            },
+            {
+              "type_id": 8,
+              "type_name": "爱情片",
+              "isSkit": null,
+              "isExpanded": null
+            },
+            {
+              "type_id": 9,
+              "type_name": "科幻片",
+              "isSkit": null,
+              "isExpanded": null
+            },
+            {
+              "type_id": 10,
+              "type_name": "恐怖片",
+              "isSkit": null,
+              "isExpanded": null
+            },
+            {
+              "type_id": 11,
+              "type_name": "剧情片",
+              "isSkit": null,
+              "isExpanded": null
+            },
+            {
+              "type_id": 12,
+              "type_name": "战争片",
+              "isSkit": null,
+              "isExpanded": null
+            },
+            {
+              "type_id": 20,
+              "type_name": "犯罪片",
+              "isSkit": null,
+              "isExpanded": null
+            },
+            {
+              "type_id": 21,
+              "type_name": "纪录片",
+              "isSkit": null,
+              "isExpanded": null
+            },
+            {
+              "type_id": 22,
+              "type_name": "动画片",
+              "isSkit": null,
+              "isExpanded": null
+            },
+            {
+              "type_id": 34,
+              "type_name": "伦理片",
+              "isSkit": null,
+              "isExpanded": null
+            }
+          ]
+        },
+        {
+          "type_id": 2,
+          "type_name": "电视剧",
+          "isSkit": null,
+          "isExpanded": null,
+          "vod_types": [
+            {
+              "type_id": 13,
+              "type_name": "国产剧",
+              "isSkit": null,
+              "isExpanded": null
+            },
+            {
+              "type_id": 14,
+              "type_name": "香港剧",
+              "isSkit": null,
+              "isExpanded": null
+            },
+            {
+              "type_id": 15,
+              "type_name": "台湾剧",
+              "isSkit": null,
+              "isExpanded": null
+            },
+            {
+              "type_id": 16,
+              "type_name": "韩国剧",
+              "isSkit": null,
+              "isExpanded": null
+            },
+            {
+              "type_id": 23,
+              "type_name": "日本剧",
+              "isSkit": null,
+              "isExpanded": null
+            },
+            {
+              "type_id": 24,
+              "type_name": "欧美剧",
+              "isSkit": null,
+              "isExpanded": null
+            },
+            {
+              "type_id": 25,
+              "type_name": "海外剧",
+              "isSkit": null,
+              "isExpanded": null
+            }
+          ]
+        },
+        {
+          "type_id": 3,
+          "type_name": "综艺",
+          "isSkit": null,
+          "isExpanded": null,
+          "vod_types": [
+            {
+              "type_id": 26,
+              "type_name": "大陆综艺",
+              "isSkit": null,
+              "isExpanded": null
+            },
+            {
+              "type_id": 27,
+              "type_name": "日韩综艺",
+              "isSkit": null,
+              "isExpanded": null
+            },
+            {
+              "type_id": 28,
+              "type_name": "港台综艺",
+              "isSkit": null,
+              "isExpanded": null
+            },
+            {
+              "type_id": 29,
+              "type_name": "欧美综艺",
+              "isSkit": null,
+              "isExpanded": null
+            }
+          ]
+        },
+        {
+          "type_id": 4,
+          "type_name": "动漫",
+          "isSkit": null,
+          "isExpanded": null,
+          "vod_types": [
+            {
+              "type_id": 30,
+              "type_name": "国产动漫",
+              "isSkit": null,
+              "isExpanded": null
+            },
+            {
+              "type_id": 31,
+              "type_name": "日韩动漫",
+              "isSkit": null,
+              "isExpanded": null
+            },
+            {
+              "type_id": 32,
+              "type_name": "欧美动漫",
+              "isSkit": null,
+              "isExpanded": null
+            },
+            {
+              "type_id": 33,
+              "type_name": "海外动漫",
+              "isSkit": null,
+              "isExpanded": null
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "key": "1739955748671",
+    "vodWebsite": {
+      "key": "1739955748671",
+      "host": "https://ckzy.me",
+      "name": "CK资源",
+      "supportedSearch": true,
+      "coverHost": "https://leduozy1.com",
+      "listPath": "/api.php/provide/vod/?ac=detail",
+      "remark": "https://ckzy.me/"
+    },
+    "vodTypes": {
+      "key": "1739955748671",
+      "vod_types": [
+        {
+          "type_id": 20,
+          "type_name": "伦理片",
+          "isSkit": false,
+          "isExpanded": true,
+          "vod_types": []
+        }
+      ]
+    }
+  },
+  {
+    "key": "1739956098788",
+    "vodWebsite": {
+      "key": "1739956098788",
+      "host": "https://api.guangsuapi.com",
+      "name": "光速资源",
+      "supportedSearch": null,
+      "coverHost": null,
+      "listPath": "/api.php/provide/vod/?ac=detail",
+      "remark": "guangsuzy.com、guangsuziyuan.com、 guangsuzy.net、 guangsuziyuan.net"
+    },
+    "vodTypes": {
+      "key": "1739956098788",
+      "vod_types": [
+        {
+          "type_id": 1,
+          "type_name": "电影",
+          "isSkit": null,
+          "isExpanded": null,
+          "vod_types": [
+            {
+              "type_id": 6,
+              "type_name": "动作片",
+              "isSkit": null,
+              "isExpanded": null
+            },
+            {
+              "type_id": 7,
+              "type_name": "喜剧片",
+              "isSkit": null,
+              "isExpanded": null
+            },
+            {
+              "type_id": 8,
+              "type_name": "爱情片",
+              "isSkit": null,
+              "isExpanded": null
+            },
+            {
+              "type_id": 9,
+              "type_name": "科幻片",
+              "isSkit": null,
+              "isExpanded": null
+            },
+            {
+              "type_id": 10,
+              "type_name": "剧情片",
+              "isSkit": null,
+              "isExpanded": null
+            },
+            {
+              "type_id": 11,
+              "type_name": "恐怖片",
+              "isSkit": null,
+              "isExpanded": null
+            },
+            {
+              "type_id": 12,
+              "type_name": "战争片",
+              "isSkit": null,
+              "isExpanded": null
+            },
+            {
+              "type_id": 20,
+              "type_name": "动漫电影",
+              "isSkit": null,
+              "isExpanded": null
+            },
+            {
+              "type_id": 24,
+              "type_name": "记录片",
+              "isSkit": null,
+              "isExpanded": null
+            },
+            {
+              "type_id": 25,
+              "type_name": "伦理片",
+              "isSkit": null,
+              "isExpanded": null
+            }
+          ]
+        },
+        {
+          "type_id": 2,
+          "type_name": "电视剧",
+          "isSkit": null,
+          "isExpanded": false,
+          "vod_types": [
+            {
+              "type_id": 13,
+              "type_name": "大陆剧",
+              "isSkit": null,
+              "isExpanded": null
+            },
+            {
+              "type_id": 15,
+              "type_name": "港澳剧",
+              "isSkit": null,
+              "isExpanded": null
+            },
+            {
+              "type_id": 14,
+              "type_name": "欧美剧",
+              "isSkit": null,
+              "isExpanded": null
+            },
+            {
+              "type_id": 16,
+              "type_name": "韩剧",
+              "isSkit": null,
+              "isExpanded": null
+            },
+            {
+              "type_id": 21,
+              "type_name": "日剧",
+              "isSkit": null,
+              "isExpanded": null
+            },
+            {
+              "type_id": 22,
+              "type_name": "台湾剧",
+              "isSkit": null,
+              "isExpanded": null
+            },
+            {
+              "type_id": 23,
+              "type_name": "泰剧",
+              "isSkit": null,
+              "isExpanded": null
+            }
+          ]
+        },
+        {
+          "type_id": 3,
+          "type_name": "综艺",
+          "isSkit": null,
+          "isExpanded": null,
+          "vod_types": []
+        },
+        {
+          "type_id": 4,
+          "type_name": "动漫",
+          "isSkit": null,
+          "isExpanded": null,
+          "vod_types": []
+        },
+        {
+          "type_id": 24,
+          "type_name": "记录片",
+          "isSkit": null,
+          "isExpanded": null,
+          "vod_types": []
+        },
+        {
+          "type_id": 25,
+          "type_name": "伦理片",
+          "isSkit": null,
+          "isExpanded": null,
+          "vod_types": []
+        },
+        {
+          "type_id": 30,
+          "type_name": "体育赛事",
+          "isSkit": null,
+          "isExpanded": false,
+          "vod_types": []
+        },
+        {
+          "type_id": 31,
+          "type_name": "短剧",
+          "isSkit": true,
+          "isExpanded": true,
+          "vod_types": []
+        }
+      ]
+    }
+  },
+  {
+    "key": "1739957370739",
+    "vodWebsite": {
+      "key": "1739957370739",
+      "host": "https://wolongzy.cc",
+      "name": "卧龙资源",
+      "supportedSearch": true,
+      "coverHost": null,
+      "listPath": "/api.php/provide/vod/?ac=detail",
+      "remark": "wolongzy.cc wolongzy.tv wolongzyw.com wolongzyw.tv wlzyw5.com wlzyw6.com"
+    },
+    "vodTypes": {
+      "key": "1739957370739",
+      "vod_types": [
+        {
+          "type_id": 1,
+          "type_name": "电影",
+          "isSkit": null,
+          "isExpanded": null,
+          "vod_types": [
+            {
+              "type_id": 5,
+              "type_name": "动作片",
+              "isSkit": null,
+              "isExpanded": null
+            },
+            {
+              "type_id": 6,
+              "type_name": "喜剧片",
+              "isSkit": null,
+              "isExpanded": null
+            },
+            {
+              "type_id": 7,
+              "type_name": "爱情片",
+              "isSkit": null,
+              "isExpanded": null
+            },
+            {
+              "type_id": 8,
+              "type_name": "科幻片",
+              "isSkit": null,
+              "isExpanded": null
+            },
+            {
+              "type_id": 9,
+              "type_name": "恐怖片",
+              "isSkit": null,
+              "isExpanded": null
+            },
+            {
+              "type_id": 10,
+              "type_name": "剧情片",
+              "isSkit": null,
+              "isExpanded": null
+            },
+            {
+              "type_id": 11,
+              "type_name": "战争片",
+              "isSkit": null,
+              "isExpanded": null
+            },
+            {
+              "type_id": 22,
+              "type_name": "纪录片",
+              "isSkit": null,
+              "isExpanded": null
+            },
+            {
+              "type_id": 23,
+              "type_name": "短片",
+              "isSkit": null,
+              "isExpanded": null
+            },
+            {
+              "type_id": 24,
+              "type_name": "动画片",
+              "isSkit": null,
+              "isExpanded": null
+            },
+            {
+              "type_id": 38,
+              "type_name": "电影解说",
+              "isSkit": null,
+              "isExpanded": null
+            },
+            {
+              "type_id": 39,
+              "type_name": "惊悚片",
+              "isSkit": null,
+              "isExpanded": null
+            },
+            {
+              "type_id": 42,
+              "type_name": "家庭片",
+              "isSkit": null,
+              "isExpanded": null
+            },
+            {
+              "type_id": 43,
+              "type_name": "古装片",
+              "isSkit": null,
+              "isExpanded": null
+            },
+            {
+              "type_id": 44,
+              "type_name": "历史片",
+              "isSkit": null,
+              "isExpanded": null
+            },
+            {
+              "type_id": 45,
+              "type_name": "悬疑片",
+              "isSkit": null,
+              "isExpanded": null
+            },
+            {
+              "type_id": 46,
+              "type_name": "犯罪片",
+              "isSkit": null,
+              "isExpanded": null
+            },
+            {
+              "type_id": 49,
+              "type_name": "伦理片",
+              "isSkit": null,
+              "isExpanded": null
+            }
+          ]
+        },
+        {
+          "type_id": 2,
+          "type_name": "电视剧",
+          "isSkit": null,
+          "isExpanded": null,
+          "vod_types": [
+            {
+              "type_id": 12,
+              "type_name": "国产剧",
+              "isSkit": null,
+              "isExpanded": null
+            },
+            {
+              "type_id": 13,
+              "type_name": "香港剧",
+              "isSkit": null,
+              "isExpanded": null
+            },
+            {
+              "type_id": 14,
+              "type_name": "韩国剧",
+              "isSkit": null,
+              "isExpanded": null
+            },
+            {
+              "type_id": 15,
+              "type_name": "欧美剧",
+              "isSkit": null,
+              "isExpanded": null
+            },
+            {
+              "type_id": 16,
+              "type_name": "台湾剧",
+              "isSkit": null,
+              "isExpanded": null
+            },
+            {
+              "type_id": 17,
+              "type_name": "日本剧",
+              "isSkit": null,
+              "isExpanded": null
+            },
+            {
+              "type_id": 33,
+              "type_name": "泰国剧",
+              "isSkit": null,
+              "isExpanded": null
+            },
+            {
+              "type_id": 18,
+              "type_name": "海外剧",
+              "isSkit": null,
+              "isExpanded": null
+            },
+            {
+              "type_id": 54,
+              "type_name": "短剧",
+              "isSkit": null,
+              "isExpanded": null
+            }
+          ]
+        },
+        {
+          "type_id": 3,
+          "type_name": "综艺",
+          "isSkit": null,
+          "isExpanded": null,
+          "vod_types": [
+            {
+              "type_id": 32,
+              "type_name": "大陆综艺",
+              "isSkit": null,
+              "isExpanded": null
+            },
+            {
+              "type_id": 30,
+              "type_name": "港台综艺",
+              "isSkit": null,
+              "isExpanded": null
+            },
+            {
+              "type_id": 31,
+              "type_name": "日韩综艺",
+              "isSkit": null,
+              "isExpanded": null
+            },
+            {
+              "type_id": 37,
+              "type_name": "欧美综艺",
+              "isSkit": null,
+              "isExpanded": null
+            }
+          ]
+        },
+        {
+          "type_id": 4,
+          "type_name": "动漫",
+          "isSkit": null,
+          "isExpanded": null,
+          "vod_types": [
+            {
+              "type_id": 25,
+              "type_name": "国产动漫",
+              "isSkit": null,
+              "isExpanded": null
+            },
+            {
+              "type_id": 26,
+              "type_name": "欧美动漫",
+              "isSkit": null,
+              "isExpanded": null
+            },
+            {
+              "type_id": 27,
+              "type_name": "日韩动漫",
+              "isSkit": null,
+              "isExpanded": null
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "key": "1739958489609",
+    "vodWebsite": {
+      "key": "1739958489609",
+      "host": "https://api.xinlangapi.com",
+      "name": "新浪资源",
+      "supportedSearch": null,
+      "coverHost": null,
+      "listPath": "/xinlangapi.php/provide/vod/?ac=detail",
+      "remark": "xinlangzy.com、 xinlangziyuan.com、 xinlangziyuan.net、 xinlangzy.net"
+    },
+    "vodTypes": {
+      "key": "1739958489609",
+      "vod_types": [
+        {
+          "type_id": 1,
+          "type_name": "电影",
+          "isSkit": null,
+          "isExpanded": null,
+          "vod_types": [
+            {
+              "type_id": 6,
+              "type_name": "动作片",
+              "isSkit": null,
+              "isExpanded": null
+            },
+            {
+              "type_id": 7,
+              "type_name": "爱情片",
+              "isSkit": null,
+              "isExpanded": null
+            },
+            {
+              "type_id": 8,
+              "type_name": "科幻片",
+              "isSkit": null,
+              "isExpanded": null
+            },
+            {
+              "type_id": 9,
+              "type_name": "战争片",
+              "isSkit": null,
+              "isExpanded": null
+            },
+            {
+              "type_id": 10,
+              "type_name": "剧情片",
+              "isSkit": null,
+              "isExpanded": null
+            },
+            {
+              "type_id": 11,
+              "type_name": "恐怖片",
+              "isSkit": null,
+              "isExpanded": null
+            },
+            {
+              "type_id": 12,
+              "type_name": "喜剧片",
+              "isSkit": null,
+              "isExpanded": null
+            },
+            {
+              "type_id": 17,
+              "type_name": "动漫电影",
+              "isSkit": null,
+              "isExpanded": null
+            }
+          ]
+        },
+        {
+          "type_id": 2,
+          "type_name": "电视剧",
+          "isSkit": null,
+          "isExpanded": null,
+          "vod_types": [
+            {
+              "type_id": 13,
+              "type_name": "大陆剧",
+              "isSkit": null,
+              "isExpanded": null
+            },
+            {
+              "type_id": 14,
+              "type_name": "港澳剧",
+              "isSkit": null,
+              "isExpanded": null
+            },
+            {
+              "type_id": 15,
+              "type_name": "台湾剧",
+              "isSkit": null,
+              "isExpanded": null
+            },
+            {
+              "type_id": 16,
+              "type_name": "欧美剧",
+              "isSkit": null,
+              "isExpanded": null
+            },
+            {
+              "type_id": 18,
+              "type_name": "韩剧",
+              "isSkit": null,
+              "isExpanded": null
+            },
+            {
+              "type_id": 20,
+              "type_name": "日剧",
+              "isSkit": null,
+              "isExpanded": null
+            },
+            {
+              "type_id": 21,
+              "type_name": "泰剧",
+              "isSkit": null,
+              "isExpanded": null
+            }
+          ]
+        },
+        {
+          "type_id": 3,
+          "type_name": "动漫",
+          "isSkit": null,
+          "isExpanded": null
+        },
+        {
+          "type_id": 4,
+          "type_name": "综艺",
+          "isSkit": null,
+          "isExpanded": null
+        },
+        {
+          "type_id": 5,
+          "type_name": "纪录片",
+          "isSkit": null,
+          "isExpanded": null
+        },
+        {
+          "type_id": 22,
+          "type_name": "伦理片",
+          "isSkit": null,
+          "isExpanded": null
+        },
+        {
+          "type_id": 23,
+          "type_name": "体育",
+          "isSkit": null,
+          "isExpanded": null
+        },
+        {
+          "type_id": 24,
+          "type_name": "短剧",
+          "isSkit": true,
+          "isExpanded": true
+        }
+      ]
+    }
+  }
 ]
